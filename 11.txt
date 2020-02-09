@@ -1,1 +1,2 @@
 ADD B IN MASTER
+ADD A
