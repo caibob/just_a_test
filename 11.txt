@@ -2,9 +2,7 @@ ADD B IN MASTER
 ADD A
 bbb Debug
 bbb push first
-<<<<<<< HEAD
 Lisa push first
 lisa push second
-=======
 Bob pushed after Lisa
->>>>>>> 175da7739f954bba8aaf1df8eddd7b7eb0d6c494
+
