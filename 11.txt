@@ -1,3 +1,4 @@
 ADD B IN MASTER
 ADD A
 bbb Debug
+bbb push first
